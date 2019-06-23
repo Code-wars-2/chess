@@ -94,8 +94,8 @@ function initialize(){
     drawPiece("queen","fas fa-chess-queen whitequeen",'d',1)
     drawPiece("queen","fas fa-chess-queen blackqueen",'e',8)
     //Arrange king
-    drawPiece("shit","fas fa-chess-king whiteking",'e',1)
-    drawPiece("shit","fas fa-chess-king blackking",'d',8)
+    drawPiece("king","fas fa-chess-king whiteking",'e',1)
+    drawPiece("king","fas fa-chess-king blackking",'d',8)
 
 }
 
